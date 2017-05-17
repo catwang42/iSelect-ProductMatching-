@@ -1,6 +1,6 @@
 # iSelect-ProductMaching-
 
-1  Conversion rates 
+1. Conversion rates 
 	* (call center / Online )
 	* top 5 product 
 	* by #product recommended 
@@ -12,13 +12,13 @@
 	* x-axis-> sale, y-axis -> customer density 
 
 4. Online and call-centre by customer loyalty (# of services)
-	* # total product brought in life-time 
+	* #total product brought in life-time 
 	* x-axis-> # of product brought, y-axis -> customer density  
 
 5. Association rules for Upsales & Cross-sales
 	不同组合下，那种组合购买率最高
 
-4 Recommender engine (SVD)
+4. Recommender engine (SVD)
 
 
 5. linear regression 
